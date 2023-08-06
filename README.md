@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-**davi112/davi112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 📫 How to reach me:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <p>www.linkedin.com/in/davi-martins-freitas</p>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <p>davimartinsfreitas@gmail.com.</p>
